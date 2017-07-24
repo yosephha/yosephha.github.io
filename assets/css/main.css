@@ -3831,3 +3831,10 @@
 	.myStyleez {
 		background: #554fea;
 	}
+
+	.pro-pic {
+	    width: 134px;
+	    border-radius: 35%;
+	    position: absolute;
+	    margin: -49px 66px;
+	}
