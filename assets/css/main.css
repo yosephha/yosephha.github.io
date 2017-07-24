@@ -3831,10 +3831,17 @@
 	.myStyleez {
 		background: #554fea;
 	}
-
+/*
 	img.pro-pic {
-	    width: 134px;
-	    border-radius: 35%;
-	    position: absolute;
-	    margin: -49px 66px;
+    width: 134px;
+    border-radius: 35%;
+    position: absolute;
+    margin: -49px 66px;
+	}*/
+
+header.major > img{
+    width: 134px;
+    border-radius: 35%;
+    position: absolute;
+    margin: -49px 66px;
 	}
