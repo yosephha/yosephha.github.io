@@ -3838,7 +3838,7 @@
     margin: -49px 66px;
 	}
 
-	header.project-major {
+	.wrapper > header.project-major {
 	    width: 11.3%;
 	    margin: auto;
 	    padding-top: 60px;
