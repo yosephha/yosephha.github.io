@@ -3808,7 +3808,12 @@
 	}
 
 	.skillzz {
-		font-size: 47px;
+		font-size: 60px;
+		display: block;
+		height: 100px;
+	}
+	.skillzz2 {
+		font-size: 87px;
 		display: block;
 		height: 100px;
 	}
