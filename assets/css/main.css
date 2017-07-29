@@ -2029,9 +2029,6 @@
 				flex-wrap: nowrap;
 		    justify-content: space-between;
 			}
-			ul.icons.major p {
-				width: 80%;
-			}
 
 				ul.icons.major li {
 					padding-right: 3.5em;
@@ -3853,4 +3850,8 @@
 	    width: 11.3%;
 	    margin: auto;
 	    padding-top: 60px;
+	}
+	
+	ul.icons.major p {
+		width: 80%;
 	}
