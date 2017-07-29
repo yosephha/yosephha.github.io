@@ -2027,9 +2027,10 @@
 				padding: 1em 0;
 				display: flex;
 				flex-wrap: nowrap;
+		    justify-content: space-between;
 			}
 			ul.icons.major p {
-				background: red;
+				width: 80%;
 			}
 
 				ul.icons.major li {
