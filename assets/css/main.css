@@ -2025,6 +2025,11 @@
 
 			ul.icons.major {
 				padding: 1em 0;
+				display: flex;
+				flex-wrap: nowrap;
+			}
+			ul.icons.major p {
+				background: red;
 			}
 
 				ul.icons.major li {
@@ -3831,11 +3836,16 @@
 		background: #554fea;
 	}
 
-	header.major > img{
+	/*header.major > img{
     width: 134px;
     border-radius: 35%;
     position: absolute;
     margin: -49px 66px;
+	}*/
+	.pro-pic{
+		width: 134px;
+		height: 160px;
+		border-radius: 35%;
 	}
 
 	.wrapper > header.project-major {
