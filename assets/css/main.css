@@ -2026,7 +2026,9 @@
 			ul.icons.major {
 				padding: 1em 0;
 				display: flex;
-				flex-wrap: nowrap;
+		    /*justify-content: space-between;*/
+			}
+			ul.icons.major.parapara {
 		    justify-content: space-between;
 			}
 
