@@ -3851,7 +3851,8 @@
 	    margin: auto;
 	    padding-top: 60px;
 	}
-	
+
 	ul.icons.major p {
 		width: 80%;
+		align-self: flex-end;
 	}
